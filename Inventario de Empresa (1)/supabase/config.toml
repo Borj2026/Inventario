@@ -1,0 +1,9 @@
+# Configuración de Supabase
+# NO usar Edge Functions - conexión directa a Database
+
+[functions]
+enabled = false
+
+[db]
+# Usar conexión directa desde el cliente
+direct_connection = true

@@ -1,0 +1,9 @@
+{
+  "tasks": {},
+  "imports": {},
+  "compilerOptions": {
+    "lib": []
+  },
+  "__DISABLED__": true,
+  "__DO_NOT_DEPLOY__": "Edge Functions are disabled. Error 403 on deployment."
+}
